@@ -1,6 +1,6 @@
-create database DWH
+create database DWH;
 
-use DWH
+use DWH;
 
 create schema bronze;
 go
